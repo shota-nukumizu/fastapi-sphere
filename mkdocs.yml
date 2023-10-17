@@ -22,6 +22,10 @@ theme:
     - navigation.sections
     - navigation.path
     - navigation.footer
+  icon:
+    repo: fontawesome/brands/github-alt
+  repo_name: shota-nukumizu/fastapi-sphere
+  repo_url: https://github.com/shota-nukumizu/fastapi-sphere
 markdown_extensions:
   - pymdownx.highlight:
       use_pygments: true
